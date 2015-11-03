@@ -1,0 +1,29 @@
+{
+  "name": "kick-off-koa",
+  "version": "1.0.0",
+  "description": "First you need to have `node` and `npm`. Figure them out.",
+  "main": "anotherExample.js",
+  "dependencies": {
+    "co-views": "^2.1.0",
+    "ejs": "^2.3.4",
+    "jade": "^1.11.0",
+    "koa": "^1.1.1",
+    "koa-bodyparser": "^2.0.1",
+    "koa-router": "^5.2.3",
+    "koa-session": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulhannanali/learngenerators-and-kickoffkoa.git"
+  },
+  "author": "Hannan Ali (abdulhannanali@outlook.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdulhannanali/learngenerators-and-kickoffkoa/issues"
+  },
+  "homepage": "https://github.com/abdulhannanali/learngenerators-and-kickoffkoa#readme"
+}
