@@ -1,5 +1,7 @@
 ## Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/abdulhannanali/learngenerators-and-kickoffkoa.svg)](https://greenkeeper.io/)
+
 First you need to have `node` and `npm`. Figure them out.
 
 ### Installation of learn-generators
